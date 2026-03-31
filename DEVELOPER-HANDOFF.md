@@ -246,15 +246,13 @@ The prototype is a single HTML file. For production:
 
 ---
 
-## File Location
+## Live Prototype
 
-```
-/Users/jamiethomson/VulcanForged/wireframes/vulcanx-prototype-v4.html
-```
+**https://jamie323.github.io/vulcanx-prototype**
 
-Open it with `python3 -m http.server 8090` from that directory, then hit `localhost:8090/vulcanx-prototype-v4.html`.
+Click "Connect Wallet" or "Get Started" to see the full connected experience. The onboarding tour will auto-start. Click through all 9 pages via the top nav or bottom prototype bar.
 
-Click "Connect Wallet" or "Get Started" to see the full connected experience. The onboarding tour will auto-start. Click through all 9 pages via the bottom prototype bar.
+Source file: `/Users/jamiethomson/VulcanForged/wireframes/vulcanx-prototype-v4.html`
 
 ---
 
